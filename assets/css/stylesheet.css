@@ -75,13 +75,12 @@ padding:10px
 }
 
 @media screen and (max-width: 990px) {
-    .header,.footer,body {
+    .header,.footer,body,.header h1, .header nav {
       width: 50%;
-      font-size: 50%;
     }
 }  
 @media screen and (max-width: 750) {
-.header,.footer,body{
+.header,.footer,body, .header h1,.header nav ul li{
     width: 100%;
 }
 }
