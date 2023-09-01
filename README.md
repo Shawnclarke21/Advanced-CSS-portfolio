@@ -11,3 +11,8 @@ in this project i started with an html file and have had lots of issues starting
 
 ### what does the page consist of
 the page below will have my name and a title along with showing for minor projects along with one major one that i worked on when clicking on the tabs it should take you to the projects i have worked on but since i have not worked on any itll take you back to the top of the page when looking clicking on the the tabs at the top itll take you to the dedicated section.
+
+![Screenshot 2023-08-31 234812](https://github.com/Shawnclarke21/Advanced-CSS-portfolio/assets/139307719/5b7efb96-7e71-4796-895a-7009f74303b5)
+![Screenshot 2023-08-31 234807](https://github.com/Shawnclarke21/Advanced-CSS-portfolio/assets/139307719/0b87b988-5b0d-41fe-bcf3-fc6a0456caca)
+![Screenshot 2023-08-31 234800](https://github.com/Shawnclarke21/Advanced-CSS-portfolio/assets/139307719/ba3ea64d-b63a-4857-aab0-25712bb49eda)
+![Screenshot 2023-08-31 234742](https://github.com/Shawnclarke21/Advanced-CSS-portfolio/assets/139307719/1168257f-e483-48a6-88e8-07928021828c)
