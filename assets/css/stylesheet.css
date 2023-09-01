@@ -9,13 +9,16 @@ body{
     background-color: darkgrey;
     color:black;
     line-height: 1.5;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .header{
     display:flex;
+    flex-wrap: wrap;
     flex-direction:row;
     justify-content: space-between;
-    padding: 40px;
     background:#130241;
     color:rgb(255, 255, 255);
 
@@ -38,7 +41,7 @@ margin-top: 3%;
 }
 .header nav ul li{
     display: inline-flex;
-    flex-wrap: wrap;
+    flex-wrap: flex;
     margin-left: 20px;
 }
 
@@ -47,6 +50,10 @@ margin-top: 3%;
     font-size: 30px;
     margin: 30px;
     border-style: solid;
+}
+.body h2, h3{
+    float: left;
+    display: flex;
 }
 
 .footer{
@@ -61,26 +68,72 @@ margin-top: 3%;
 .footer h4{
     display:flex;
 font-size: 40px;
-border-style: solid;
+
 padding:10px
 }
-.footer nav{
-    padding-top: 50px;
-    float: right;
-    font-size: 30px;
+.footer section{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    font-size: 40px;
 }
-.footer nav ul li{
-    display: inline-block;
-    margin-left: 30px; 
+.footer section ul li{
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
 }
 
 @media screen and (max-width: 990px) {
-    .header,.footer,body,.header h1, .header nav {
-      width: 50%;
+    .header,.footer,body,.header h1, .header nav ul li{
+      width: 100%;
     }
 }  
 @media screen and (max-width: 750) {
 .header,.footer,body, .header h1,.header nav ul li{
     width: 100%;
 }
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    padding: 50px;
+
+    
+
+}
+
+.heading{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+    box-shadow: 10px 10px 5px rgb(114, 113, 113);
+
+}
+.game{
+    width: 500px;
+    height: 380px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px rgb(114, 113, 113);
+    margin: 10px;
+}
+.art{
+    width: 450px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px rgb(114, 113, 113);
+    margin: 10px;
+}
+.music{
+    width: 500px;
+    height: 390px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px rgb(114, 113, 113);
+    margin: 10px;
+}
+.model{
+    width: 450px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px rgb(114, 113, 113);
+    margin: 10px;
 }
