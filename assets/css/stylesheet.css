@@ -98,6 +98,7 @@ padding:10px
     flex-wrap: wrap;
     justify-content:space-evenly;
     padding: 50px;
+    margin: 70px;
 
     
 
@@ -116,24 +117,24 @@ padding:10px
     height: 380px;
     border-radius: 10%;
     box-shadow: 10px 10px 5px rgb(114, 113, 113);
-    margin: 10px;
+    margin: 20px;
 }
 .art{
     width: 450px;
     border-radius: 10%;
     box-shadow: 10px 10px 5px rgb(114, 113, 113);
-    margin: 10px;
+    margin: 20px;
 }
 .music{
     width: 500px;
     height: 390px;
     border-radius: 10%;
     box-shadow: 10px 10px 5px rgb(114, 113, 113);
-    margin: 10px;
+    margin: 20px;
 }
 .model{
     width: 450px;
     border-radius: 10%;
     box-shadow: 10px 10px 5px rgb(114, 113, 113);
-    margin: 10px;
+    margin: 20px;
 }

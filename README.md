@@ -11,3 +11,6 @@ in this project i started with an html file and have had lots of issues starting
 
 ### what does the page consist of
 the page below will have my name and a title along with showing for minor projects along with one major one that i worked on when clicking on the tabs it should take you to the projects i have worked on but since i have not worked on any itll take you back to the top of the page when looking clicking on the the tabs at the top itll take you to the dedicated section.
+
+https://shawnclarke21.github.io/Advanced-CSS-portfolio/
+https://github.com/Shawnclarke21/Advanced-CSS-portfolio
